@@ -8,3 +8,9 @@ body {
   background-color: white;
   font-family: "lato", sans-serif;
 }
+.signupForm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
