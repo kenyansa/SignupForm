@@ -26,3 +26,9 @@ body {
     font-size: 50px;
     margin-bottom: 50px;
   }
+  .inputContainer {
+    position: relative;
+    height: 45px;
+    width: 90%;
+    margin-bottom: 17px;
+  }
