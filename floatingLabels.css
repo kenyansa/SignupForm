@@ -84,3 +84,11 @@ body {
     background-color: #9867C5;
     transform: translateY(-2px);
   }
+  .input:focus + .label {
+    top: -7px;
+    left: 3px;
+    z-index: 10;
+    font-size: 14px;
+    font-weight: 600;
+    color: purple;
+  }
