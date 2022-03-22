@@ -14,3 +14,15 @@ body {
     align-items: center;
     height: 100vh;
   }
+  .form {
+    background-color: white;
+    width: 400px;
+    border-radius: 8px;
+    padding: 20px 40px;
+    box-shadow: 0 10px 25px rgba(92, 99, 105, .2);
+  }
+  
+  .title {
+    font-size: 50px;
+    margin-bottom: 50px;
+  }
