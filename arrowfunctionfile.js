@@ -85,3 +85,24 @@ function stockLaptops(item){
     return item
 }
 console.log(updateStockOfLaptops(laptops, stockLaptops))
+
+console.log(laptops.map(fiftyPercentDiscount));
+console.log(laptops.map(stockLaptops));
+//finding a laptop model that's to be restocked
+function finderOfLaptops(laptops){
+
+}
+function stockFirst(item){
+    return item.stock <=10
+}
+console.log(stockFirst);
+
+
+
+function oneAndOne(){
+    const num1=1;
+    const num2=2;
+    return num1+num2;
+}
+oneAndOne();
+console.log(num1)
